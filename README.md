@@ -25,7 +25,7 @@ This script is intended for educational and ethical purposes only. By using this
 
   pip3 install aiohttp
 ```
-Prepare a text file (url_list.txt) containing a list of url, with each domain on a separate line.
+Specify the url list contian the list of domain need to check.(/home/test/url_list.txt)
 
 Update the session_ids list in the code if needed, to include the session ID names you want to check. By default, the script checks the following session IDs: ASP.NET_SessionId PHPSESSID JSESSIONID
 
