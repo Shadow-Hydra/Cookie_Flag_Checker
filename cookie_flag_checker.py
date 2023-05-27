@@ -1,7 +1,7 @@
 import aiohttp
 import asyncio
 
-session_ids = ['ASP.NET_SessionId', 'PHPSESSID', 'JSESSIONID']
+session_ids = ['ASP.NET_SessionId', 'PHPSESSID', 'JSESSIONID'] # Update the session_ids if needed
 request_timeout = 20  # Timeout value in seconds
 
 async def check_cookie_flags(session_id, url):
