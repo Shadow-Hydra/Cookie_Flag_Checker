@@ -8,10 +8,10 @@ Disclaimer: This script is intended for educational and ethical purposes only. B
 Usage:
 
 1. Clone the repository or download the code files.
+    https://github.com/Shadow-Hydra/Cookie_Flag_Checker.git
 
 2. Install the required dependencies by running the following command:
-Copy code
-pip install aiohttp
+    pip install aiohttp
 
 3. Prepare a text file (url_list.txt) containing a list of url, with each domain on a separate line.
 
