@@ -7,20 +7,23 @@ Disclaimer: This script is intended for educational and ethical purposes only. B
 
 Usage:
 
-Clone the repository or download the code files.
+1. Clone the repository or download the code files.
 
-Install the required dependencies by running the following command:
+2. Install the required dependencies by running the following command:
 Copy code
 pip install aiohttp
-Prepare a text file (gov_url_final_result) containing a list of domains, with each domain on a separate line.
-Update the session_ids list in the code if needed, to include the session ID names you want to check. By default, the script checks the following session IDs:
+
+3. Prepare a text file (url_list.txt) containing a list of url, with each domain on a separate line.
+
+4. Update the session_ids list in the code if needed, to include the session ID names you want to check. By default, the script checks the following session IDs:
 ASP.NET_SessionId
 PHPSESSID
 JSESSIONID
-Run the script using the following command:
+
+5. Run the script using the following command:
 Copy code
 python your_script_name.py
-Make sure to replace your_script_name.py with the actual name of your script file.
+
 The script will check each domain in the list and print the results indicating if the secure and httponly flags are present or missing for each session ID. The results will also be written to the console.
 Note: The script uses asyncio and aiohttp to perform asynchronous HTTP requests, which can improve the overall performance when checking multiple domains.
 
