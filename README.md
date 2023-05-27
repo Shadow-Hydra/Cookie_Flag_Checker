@@ -41,4 +41,5 @@ Update the session_ids list in the code if needed, to include the session ID nam
 
 ## Demo
 
-![s2](https://github.com/Shadow-Hydra/q/assets/130434447/cf414c4f-2c70-4487-823a-7940850df759)
+![s2](https://github.com/Shadow-Hydra/Cookie_Flag_Checker/assets/130434447/6e84a80a-dcda-49da-9b60-981213754531)
+
