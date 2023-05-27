@@ -22,10 +22,12 @@ This script is intended for educational and ethical purposes only. By using this
 
 ```bash
   git clone https://github.com/Shadow-Hydra/Cookie_Flag_Checker.git
+  
+  cd Cookie_Flag_Checker
 
   pip3 install aiohttp
 ```
-Specify the text file which contian the list of domain need to check. (/home/test/url_list.txt)
+edit the file name contians the list of domain need to check inside the code. (/home/test/url_list.txt)
 
 Update the session_ids list in the code if needed, to include the session ID names you want to check. By default, the script checks the following session IDs: ASP.NET_SessionId PHPSESSID JSESSIONID
 
