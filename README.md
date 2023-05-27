@@ -10,8 +10,10 @@ The script will check each domain in the list and print the results indicating i
 Contributing If you have any suggestions, improvements, or bug fixes, please feel free to contribute! Fork the repository, make your changes, and submit a pull request.
 
 
+
 ## Disclaimer: 
 This script is intended for educational and ethical purposes only. By using this script, you agree that you are solely responsible for any actions you take. Be sure to use this script responsibly and in compliance with applicable laws and regulations.
+
 
 
 
@@ -32,7 +34,5 @@ Update the session_ids list in the code if needed, to include the session ID nam
 ```
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## Demo
 
