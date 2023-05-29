@@ -15,6 +15,11 @@ Contributing If you have any suggestions, improvements, or bug fixes, please fee
 This script is intended for educational and ethical purposes only. By using this script, you agree that you are solely responsible for any actions you take. Be sure to use this script responsibly and in compliance with applicable laws and regulations.
 
 
+## Prerequisites
+
+- Python 3.x
+- aiohttp library (Install using `pip3 install aiohttp`)
+
 
 
 ## Usage:
